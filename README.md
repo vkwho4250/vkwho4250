@@ -1,6 +1,6 @@
 Hi there!
 
-My name is Victoria and welcome to my GitHub.
+My name is Victoria and welcome to my GitHub: https://github.com/vkwho4250.
 
 Visit my portfolio here:
 http://www.victoriaho.me/
