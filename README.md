@@ -11,7 +11,7 @@ Being a web developer allows me to be creative and curious without compromising 
 I’m currently looking for an opportunity to learn and work amongst incredible developers and professionals who share my enthusiasm in all things smart and creative!
 
 SKILLS (and growing!)
-- HTML5, CSS3, SASS, JavaScript
+- HTML5, CSS3, SASS, JavaScript ES6+
 - React, Vue (Vuex), jQuery 
 - Responsive design
 - API integration
