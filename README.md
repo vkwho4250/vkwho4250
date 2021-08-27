@@ -8,8 +8,6 @@ I’m also a self-motivated and avid learner who’s passionate about exchanging
 
 Being a web developer allows me to be creative and curious without compromising the inherent problem-solver in me and I’m eager to learn new and better ways to produce accessible, intuitive, and memorable digital experiences that consistently deliver.
 
-I’m currently looking for an opportunity to learn and work amongst incredible developers and professionals who share my enthusiasm in all things smart and creative!
-
 SKILLS (and growing!)
 - HTML5, CSS3, SASS, JavaScript ES6+
 - React, Vue (Vuex), jQuery 
